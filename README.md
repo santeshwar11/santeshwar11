@@ -54,13 +54,6 @@ Here, I share my hardware design journey through hands-on implementations:
 
 ---
 
-### 📈 GitHub Stats
-
-![Santeshwar's GitHub Stats] (https://github-readme-stats.vercel.app/api?username=santeshwar11&show_icons=true&theme=nord)
-![Top Languages] (https://github-readme-stats.vercel.app/api/top-langs/?username=santeshwar11&layout=compact&theme=nord)
-
----
-
 ### 📫 Connect With Me
 
 - **LinkedIn:** [Santeshwar Sanghra] (www.linkedin.com/in/santeshwar-sanghra) 
